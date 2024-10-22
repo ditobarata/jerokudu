@@ -1,0 +1,16 @@
+# Mengabaikan file sistem
+.DS_Store
+
+# Mengabaikan folder virtual environment
+.venv/
+
+# Mengabaikan cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Mengabaikan file log
+*.log
+
+# Mengabaikan folder git
+.git/
